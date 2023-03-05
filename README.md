@@ -38,3 +38,6 @@ Y can only be 0-3 (or 1-4).
 @Marko2155 - Making EBIT.
 
 @paul0warren - For helping with the math.
+
+# Why EBIT is named EBIT.
+So, the idea is the pixels in the 4x4 grid are made from an 8x8 grid of bits, and all the bits form 1 pixel.
