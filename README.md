@@ -6,7 +6,7 @@ First, open up Visual Studio and make a new WinForms C# project. It needs to be 
 
 Second, download the .cs file from the Releases page. Place it into the root folder of your project and if the .cs file doesn't pop up, restart Visual Studio.
 
-Third, reference EBIT by typing in
+Third, reference EBIT by typing in:
 ```
 using EBIT;
 ```
