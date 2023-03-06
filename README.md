@@ -10,6 +10,8 @@ A C# library for making 4x4 pixel art.
 
 [Why EBIT is named EBIT](https://github.com/Marko2155/EBIT#why-ebit-is-named-ebit)
 
+[EBIT Examples](https://github.com/Marko2155/EBIT#ebit-examples)
+
 # Install
 First, open up Visual Studio and make a new WinForms C# project. It needs to be WinForms C# because the pixels are actually giant PictureBoxes.
 
