@@ -53,4 +53,5 @@ So, the idea is the pixels in the 4x4 grid are made from an 8x8 grid of bits, an
 
 # EBIT Examples
 - 4x4 Mario
+- 
 ![Mario Example](https://github.com/Marko2155/EBIT/tree/main/examples/mario.png)
