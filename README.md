@@ -45,6 +45,15 @@ X can only be 0-3 (or 1-4).
 
 Y can only be 0-3 (or 1-4).
 
+If you want to delete pixels:
+```
+EBIT.EBIT.delete_pixel(this, x, y);
+```
+or set the background:
+```
+EBIT.EBIT.set_background(this, color);
+```
+
 # Credits
 @Marko2155 - Making EBIT.
 
