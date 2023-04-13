@@ -39,7 +39,7 @@ EBIT.EBIT.draw_pixel(this, 0, 0, Color.Red);
 
 Here's the structure of the command:
 ```
-EBIT.EBIT.draw_pixel(this, x, y, Color.[color]
+EBIT.EBIT.draw_pixel(this, x, y, Color.[color]);
 ```
 X can only be 0-3 (or 1-4).
 
