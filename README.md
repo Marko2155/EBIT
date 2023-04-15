@@ -23,6 +23,8 @@ using EBIT;
 ```
 
 # How to use
+
+Edit 4/15/23: If you type EBIT.EBIT but it doesn't work, just type EBIT.
 First, initialize EBIT by clicking on the form and typing:
 
 ```
